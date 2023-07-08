@@ -2,7 +2,7 @@
 
 Repository ini berisikan final project Mobile Automation Testing menggunakan WebDriver.io dan Appium dari aplikasi Diet Meal App
 
-link Test Scenario [here][linkTestCases]
+link Test Scenario [here][linkTestCases] <br>
 Link Video Recording [here][linkVideo]
 
 ## Instalasi 
